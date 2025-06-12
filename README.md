@@ -1,15 +1,15 @@
 # first-repo - Group 5
-Michael Jackson - 
+Michael Jackson - mikejackson0324@gmail.com
 
-Harmanjot Singh Jhajj 
+Harmanjot Singh Jhajj - jhajjharmanjotsingh@gmail.com
 
-Seid Hassen Yesuf
+Seid Hassen Yesuf - seid2u@gmail.com
 
-Josephine Laure
+Josephine Laure - tjosephinelaure@gmail.com
 
-Dhaval Patel
+Dhaval Patel - dhavalpatel37.it@gmail.com
 
-Afolashade Otujo
+Afolashade Otujo - afolashadeotujo23@gmail.com
 
-Tobi Oladimeji
+Tobi Oladimeji - tjosephinelaure@gmail.com
 
